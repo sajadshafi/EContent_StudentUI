@@ -1,0 +1,28 @@
+.filter-wrapper {
+  background-color: #ebebeb;
+}
+.loading-wrapper {
+  background-color: #cacaca;
+}
+.filter-wrapper h3 {
+  font-style: italic;
+  font-size: 1.1rem;
+  color: #3c458b;
+}
+.mobile-card {
+  display: none;
+}
+@media only screen and (max-width: 500px) {
+  .mobile-card {
+    display: block;
+  }
+  .desktop-card {
+    display: none;
+  }
+  .mobile-card {
+    padding: 0.7rem;
+  }
+  .mobile-card h6 {
+    margin: 0;
+  }
+}

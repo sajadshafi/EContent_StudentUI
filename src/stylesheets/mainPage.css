@@ -1,0 +1,45 @@
+.content p {
+  color: #222845;
+  margin: 0;
+  font-size: 1.2rem;
+  margin-bottom: 9px;
+}
+.content ul {
+  margin-bottom: 5px;
+}
+.content span {
+  font-size: 0.8rem;
+  /* display: block; */
+  margin-top: 9px;
+  color: #787676;
+  font-style: italic;
+}
+
+/* Pagination css */
+
+.page-link {
+  color: #007bff;
+}
+/* end */
+
+.item-wrapper {
+  background-color: white;
+  border: #d3d0d0 1px solid;
+}
+
+.tab-content {
+  padding-bottom: 8px;
+}
+
+.content-detail-top {
+}
+
+.content-detail-top h6 {
+  font-size: 0.8rem;
+  font-style: italic;
+  color: #d6a30a;
+  margin-bottom: 2px;
+}
+.downloadLink {
+  color: blue;
+}
