@@ -4,7 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+How to get Started:
+git clone
+enter to the directory
+
+### `npm i`
+This command will install all the react components it needs to run.
 
 ### `npm start`
 
